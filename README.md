@@ -47,7 +47,7 @@ class Alejandro:
 
 </div>
 
-### ⚙️ Backend & Bases de Datos
+### ⚙️ Backend &amp; Bases de Datos
 
 <div align="center">
 
@@ -57,7 +57,7 @@ class Alejandro:
 
 </div>
 
-### 🤖 AI & Data
+### 🤖 AI &amp; Data
 
 <div align="center">
 
@@ -67,7 +67,7 @@ class Alejandro:
 
 </div>
 
-### 🐧 Sistemas & DevOps
+### 🐧 Sistemas &amp; DevOps
 
 <div align="center">
 
@@ -80,7 +80,7 @@ class Alejandro:
 
 </div>
 
-### 🚀 Herramientas & Deploy
+### 🚀 Herramientas &amp; Deploy
 
 <div align="center">
 
@@ -143,7 +143,7 @@ class Alejandro:
 
 | 🏆 Título | 📚 Área |
 |-----------|---------|
-| **Especialización IA & Big Data** | Machine Learning · Automatización · Procesamiento de datos |
+| **Especialización IA &amp; Big Data** | Machine Learning · Automatización · Procesamiento de datos |
 | **FP Superior ASIR** | Sistemas · Redes · Linux · Virtualización · Servidores |
 | **Bachillerato** | — |
 | **FP Medio Deportes** | Liderazgo · Trabajo en equipo · Disciplina |
@@ -164,7 +164,7 @@ class Alejandro:
 ![AI](https://img.shields.io/badge/AI_Automation-6f42c1?style=flat-square)
 ![Systems](https://img.shields.io/badge/Systems_Administration-0d6efd?style=flat-square)
 ![Full Stack](https://img.shields.io/badge/Full_Stack_Dev-20c997?style=flat-square)
-![Infrastructure](https://img.shields.io/badge/Infrastructure_&_DevOps-fd7e14?style=flat-square)
+![Infrastructure](https://img.shields.io/badge/Infrastructure_%26_DevOps-fd7e14?style=flat-square)
 ![Remote](https://img.shields.io/badge/Remote_International-28a745?style=flat-square)
 
 ---
